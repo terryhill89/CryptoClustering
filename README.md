@@ -61,3 +61,10 @@ Use the elbow method on the PCA data to find the best value for k using the foll
 - Answer the following question:
   - What is the impact of using fewer features to cluster the data using K-Means?
     - The clusters are more clear when you reducing or using fewer features but the number of cluster do not change.
+    
+## Resources
+- https://stackoverflow.com/questions/69596239/how-to-avoid-memory-leak-when-dealing-with-kmeans-for-example-in-this-code-i-am
+- https://realpython.com/python-pathlib/
+- https://ucdvirtdatapt-gq76002.slack.com/archives/C04935D73AS/p1682568041982859
+  - Examples using sklearn.cluster.Birch: Compare BIRCH and MiniBatchKMeans Compare BIRCH and MiniBatchKMeans Comparing different clustering algorithms on toy datasets Comparing different clustering
+ - https://bokeh.org/
